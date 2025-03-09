@@ -12,13 +12,13 @@
 
 
 💡 Software Development
-✅ Frontend: React.js, Redux
-✅ Backend: Node.js, Express.js, Laravel
+✅ Frontend: React.js, Redux <br>
+✅ Backend: Node.js, Express.js, Laravel <br>
 ✅ Databases: MySQL, MongoDB
 
 🚀 Performance Optimization
-✅ Reduced cloud costs by 30% through optimized deployments
-✅ Cut deployment time by 70% using Jenkins, Docker & Terraform
+✅ Reduced cloud costs by 30% through optimized deployments  <br>
+✅ Cut deployment time by 70% using Jenkins, Docker & Terraform  <br>
 ✅ 99.9% uptime with AWS Load Balancer & Auto Scaling
 
 🚀 Projects That Speak for Themselves
