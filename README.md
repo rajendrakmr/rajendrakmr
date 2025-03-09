@@ -4,8 +4,8 @@
 
 ⚡ What I Do Best
 🔥 Cloud & DevOps
-- ✅ AWS, Kubernetes, Terraform, Ansible, Docker, Jenkins  
-- ✅ Scalable CI/CD pipelines – Automating deployments & cutting downtime  
+1. ✅ AWS, Kubernetes, Terraform, Ansible, Docker, Jenkins  
+2. ✅ Scalable CI/CD pipelines – Automating deployments & cutting downtime  
 - ✅ Monitoring & Security – Grafana, Prometheus, ELK Stack  
 
 
@@ -54,39 +54,4 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
  </p>
   
-### DevOps
-  
- <p float="left">
-  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
-  </a> 
-  <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="[[https://miro.medium.com/v2/resize:fit:1400/1*m0s2io11J82PR7miqan92w.png](https://miro.medium.com/v2/resize:fit:1400/1*m0s2io11J82PR7miqan92w.png)](https://miro.medium.com/v2/resize:fit:1400/1*m0s2io11J82PR7miqan92w.png)"  height="75" />
-  </a>
- </p>
-  
-### Databases and Monitoring
-  
-  <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
-  </a>
-  <a href="https://www.influxdata.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="60" />
-  </a>
-    <a href="https://www.postgresql.org" target="_blank" >
-    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" />
-  </a>
-  </a>
-    <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" height="60" />
-  </a>
-  
-</p>
-
-
-### 📫 How to reach me?
-
- - Visit my [Website](https://www.trainwithshubham.com) 🌐
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamlondhe1996/) 👨🏻‍💻
- - Follow me on [Instagram](https://www.instagram.com/shubhamlondhe96/) ✨
- - Shoot Me an [Email](mailto:trainwithshubham@gmail.com) 💌
+ 
