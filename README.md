@@ -61,7 +61,7 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
   </a> 
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif](https://miro.medium.com/v2/resize:fit:1400/1*m0s2io11J82PR7miqan92w.png"  height="75" />
   </a>
  </p>
   
