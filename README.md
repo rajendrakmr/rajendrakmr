@@ -48,11 +48,7 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="90"/>
 </a>
 
-<a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="80"/>
-</a>
-
-<a href="https://laravel.com/" target="_blank">
+<a href="https://laravel.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" height="80"/>
 </a>
 
