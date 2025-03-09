@@ -4,8 +4,8 @@
 
 ⚡ What I Do Best
 🔥 Cloud & DevOps
-✅ AWS, Kubernetes, Terraform, Ansible, Docker, Jenkins
-✅ Scalable CI/CD pipelines – Automating deployments & cutting downtime
+- AWS, Kubernetes, Terraform, Ansible, Docker, Jenkins
+- Scalable CI/CD pipelines – Automating deployments & cutting downtime
 ✅ Monitoring & Security – Grafana, Prometheus, ELK Stack
 
 💡 Software Development
