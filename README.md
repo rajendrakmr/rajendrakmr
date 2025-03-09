@@ -2,11 +2,13 @@
  👋 Hey, I'm Rajendra Kumar Marandi!
 🚀 DevOps Engineer | Cloud & React Developer 
 
-⚡ What I Do Best
-🔥 Cloud & DevOps
-1. ✅ AWS, Kubernetes, Terraform, Ansible, Docker, Jenkins  
-2. ✅ Scalable CI/CD pipelines – Automating deployments & cutting downtime  
-- ✅ Monitoring & Security – Grafana, Prometheus, ELK Stack  
+⚡ What I Do Best <br><br>
+
+🔥 Cloud & DevOps <br>
+✅ AWS, Kubernetes, Terraform, Ansible, Docker, Jenkins <br>
+✅ Scalable CI/CD pipelines – Automating deployments & cutting downtime <br>
+✅ Monitoring & Security – Grafana, Prometheus, ELK Stack  
+
 
 
 💡 Software Development
