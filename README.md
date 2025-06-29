@@ -2,22 +2,6 @@
 
 I’m **Rajendra**, a passionate **DevOps Engineer** with a Cloud + Full-Stack edge.  
 
----
-
-### 🚀 **What I Do**
-
-💡 **DevOps:**  
-- 🔹 AWS, Kubernetes, Terraform, Ansible, Docker, Jenkins  
-- 🔹 Build scalable CI/CD pipelines to automate deployments and reduce downtime  
-- 🔹 Implement monitoring & logging: Prometheus, Grafana, ELK Stack  
-
-💻 **Software Development:**  
-- 🔹 **Frontend:** React.js, Redux  
-- 🔹 **Backend:** Node.js, Express.js, Laravel  
-- 🔹 **Databases:** MySQL, MongoDB  
-
----
-
 ### ⚡ **About Me**
 
 I love automating repetitive tasks, securing infra, and delivering robust cloud-native apps.  
