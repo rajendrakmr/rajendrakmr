@@ -1,22 +1,39 @@
-### Hi there 👋 
- 👋 Hey, I'm Rajendra <br>
-🚀 DevOps Engineer | Cloud & React Developer 
+### 👋 Hi there!
 
-⚡ What I Do Best <br><br>
+I’m **Rajendra**, a passionate **DevOps Engineer** with a Cloud + Full-Stack edge.  
 
-🔥 Cloud & DevOps <br>
-✅ AWS, Kubernetes, Terraform, Ansible, Docker, Jenkins <br>
-✅ Scalable CI/CD pipelines – Automating deployments & cutting downtime <br>
-✅ Monitoring & Security – Grafana, Prometheus, ELK Stack  
+---
 
+### 🚀 **What I Do**
 
+💡 **DevOps:**  
+- 🔹 AWS, Kubernetes, Terraform, Ansible, Docker, Jenkins  
+- 🔹 Build scalable CI/CD pipelines to automate deployments and reduce downtime  
+- 🔹 Implement monitoring & logging: Prometheus, Grafana, ELK Stack  
 
-💡 Software Development  <br>
-✅ Frontend: React.js, Redux <br>
-✅ Backend: Node.js, Express.js, Laravel <br>
-✅ Databases: MySQL, MongoDB
- 
-I mostly work with ReactJs, Laravel MVC Frameworks and Cloud based technologies. 🚀
+💻 **Software Development:**  
+- 🔹 **Frontend:** React.js, Redux  
+- 🔹 **Backend:** Node.js, Express.js, Laravel  
+- 🔹 **Databases:** MySQL, MongoDB  
+
+---
+
+### ⚡ **About Me**
+
+I love automating repetitive tasks, securing infra, and delivering robust cloud-native apps.  
+I’m currently working on projects that combine **React**, **Node**, and **AWS/Kubernetes** to build production-ready, resilient systems.
+
+---
+
+### 📫 **Let’s Connect**
+
+- LinkedIn: [[Your LinkedIn URL](https://www.linkedin.com/in/cloudwithrk/)]
+- Portfolio/Blog: [If you have one]
+
+---
+
+**“Automation first. Manual last.”** 🚀
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajendrakmr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
 
