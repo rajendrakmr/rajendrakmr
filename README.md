@@ -11,11 +11,27 @@
   
 **“Automation first. Manual last.”** 🚀
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajendrakmr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" width="50%"/>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rajendrakmr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub+Stats&title_color=00FF00&text_color=00FF00" 
+    style="width: 100%; max-width: 800px;" 
+  />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajendrakmr&theme=chartreuse-dark&hide_border=true" width="50%"/>
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rajendrakmr&theme=chartreuse-dark&hide_border=true" 
+    style="width: 100%; max-width: 800px;" 
+  />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajendrakmr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="50%"/>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajendrakmr&theme=chartreuse-dark&hide_border=true&layout=compact" 
+    style="width: 100%; max-width: 800px;" 
+  />
+</p>
+
 
 
  
