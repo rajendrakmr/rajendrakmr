@@ -7,12 +7,12 @@
 
 
 <h3 align="center">
-  🚀 Transforming Chaos into Code: A DevOps Engineer Crafting Automation, Cloud, and CI/CD Pipelines
+ 🚀 A DevOps Engineer Who Automates Cloud and CI/CD to Make Work Easy
 </h3>
 
 <p align="center">
   <em>“Write once. Deploy forever.”</em> <br>
-  ⚙️ Kubernetes • Docker • Terraform • AWS • Jenkins • GitHub Actions • ArgoCD
+  ⚙️ Kubernetes • Docker • Terraform • AWS • Jenkins • ArgoCD • Grafana • Prometheus 
 </p>
 
 
