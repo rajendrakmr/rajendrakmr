@@ -6,7 +6,14 @@
 </h1>
 
 
-**“Automation first. Manual last.”** 🚀
+<h3 align="center">
+🚀 A Passionate DevOps Engineer Automating Infrastructure, CI/CD & Cloud Deployments
+</h3>
+
+<p align="center">
+   <em>“Automation First. Manual Last.”</em> <br>
+   🛠️ Kubernetes | Docker | Terraform | AWS | Jenkins | GitHub Actions
+</p>
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajendrakmr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
