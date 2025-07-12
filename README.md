@@ -1,4 +1,7 @@
 ### 👋 Hi there!
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rajendra!;+A+DevOps+and+Fullstack+Engineer!" />
+</h1>
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajendrakmr)](https://github.com/ryo-ma/github-profile-trophy)
 I’m **Rajendra**, a passionate **DevOps Engineer** with a Cloud + Full-Stack edge.  
 
