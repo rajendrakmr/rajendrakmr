@@ -1,8 +1,9 @@
  <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Rajendra!;+A+DevOps+and+Fullstack+Engineer!" />
 </h1>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajendrakmr)](https://github.com/ryo-ma/github-profile-trophy)
-### ⚡ **About Me**
+ 
 
 I love automating repetitive tasks, securing infra, and delivering robust cloud-native apps.  
 I’m currently working on projects that combine **React**, **Node**, and **AWS/Kubernetes** to build production-ready, resilient systems.
