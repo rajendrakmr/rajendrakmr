@@ -4,28 +4,14 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajendrakmr)](https://github.com/ryo-ma/github-profile-trophy)
  
-
-I love automating repetitive tasks, securing infra, and delivering robust cloud-native apps.  
-I’m currently working on projects that combine **React**, **Node**, and **AWS/Kubernetes** to build production-ready, resilient systems.
-
----
-
-### 📫 **Let’s Connect**
-
-- LinkedIn: [[Your LinkedIn URL](https://www.linkedin.com/in/cloudwithrk/)]
-- Portfolio/Blog: [If you have one]
-
----
-
+  
 **“Automation first. Manual last.”** 🚀
 
+<img src="https://github-readme-stats.vercel.app/api?username=rajendrakmr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajendrakmr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajendrakmr&theme=chartreuse-dark&hide_border=true" width="100%"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajendrakmr&theme=chartreuse-dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajendrakmr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajendrakmr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%"/>
 
 
  
