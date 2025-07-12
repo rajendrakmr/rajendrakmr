@@ -1,5 +1,5 @@
 ### 👋 Hi there!
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=rajendrakmr)](https://github.com/ryo-ma/github-profile-trophy)
 I’m **Rajendra**, a passionate **DevOps Engineer** with a Cloud + Full-Stack edge.  
 
 ### ⚡ **About Me**
