@@ -7,11 +7,11 @@
   
 **“Automation first. Manual last.”** 🚀
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajendrakmr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rajendrakmr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" width="50%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajendrakmr&theme=chartreuse-dark&hide_border=true" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajendrakmr&theme=chartreuse-dark&hide_border=true" width="50%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajendrakmr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajendrakmr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="50%"/>
 
 
  
