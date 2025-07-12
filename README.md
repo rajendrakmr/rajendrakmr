@@ -7,12 +7,12 @@
 
 
 <h3 align="center">
-🚀 A Passionate DevOps Engineer Automating Infrastructure, CI/CD & Cloud Deployments
+  🚀 Transforming Chaos into Code: A DevOps Engineer Crafting Automation, Cloud, and CI/CD Pipelines
 </h3>
 
 <p align="center">
-   <em>“Automation First. Manual Last.”</em> <br>
-   🛠️ Kubernetes | Docker | Terraform | AWS | Jenkins | GitHub Actions
+  <em>“Write once. Deploy forever.”</em> <br>
+  ⚙️ Kubernetes • Docker • Terraform • AWS • Jenkins • GitHub Actions • ArgoCD
 </p>
 
 
