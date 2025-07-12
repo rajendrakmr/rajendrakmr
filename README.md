@@ -21,7 +21,7 @@
 <p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=rajendrakmr&theme=chartreuse-dark&hide_border=true" 
-    style="width: 100%; max-width: 800px;" 
+    style="width: 100%; max-width: 800px; font-size:12px;" 
   />
 </p>
 
