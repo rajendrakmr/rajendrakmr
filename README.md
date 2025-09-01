@@ -24,8 +24,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajendrakmr)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Contributors](https://img.shields.io/github/contributors/OWNER/REPO.svg)](https://github.com/OWNER/REPO/graphs/contributors)
+ [![Contributors](https://img.shields.io/github/contributors/OWNER/REPO.svg)](https://github.com/OWNER/REPO/graphs/contributors)
 
-
- 
  
