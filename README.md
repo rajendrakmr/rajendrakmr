@@ -15,8 +15,7 @@
   ⚙️ Kubernetes • Docker • Terraform • AWS • Jenkins • ArgoCD • Grafana • Prometheus 
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rajendrakmr&color=blue)
-
+ 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajendrakmr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajendrakmr&theme=chartreuse-dark&hide_border=true)
@@ -24,6 +23,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajendrakmr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajendrakmr)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Contributors](https://img.shields.io/github/contributors/OWNER/REPO.svg)](https://github.com/OWNER/REPO/graphs/contributors)
+
 
  
  
