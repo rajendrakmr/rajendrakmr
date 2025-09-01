@@ -14,6 +14,7 @@
   <em>“Write once. Deploy forever.”</em> <br>
   ⚙️ Kubernetes • Docker • Terraform • AWS • Jenkins • ArgoCD • Grafana • Prometheus 
 </p>
+![Profile Views](https://komarev.com/ghpvc/?username=rajendrakmr&color=blue)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajendrakmr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
