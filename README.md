@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajendrakmr&layout=compact&theme=tokyonight&hide_border=false" alt="Top-Languages" height="165"> 
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajendrakmr&theme=tokyonight&hide_border=false" alt="Streak" width="600">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajendrakmr&theme=tokyonight&hide_border=true" alt="Streak" width="600">
 </div>
 
 ---
