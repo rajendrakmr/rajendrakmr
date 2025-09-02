@@ -15,12 +15,19 @@
   ⚙️ Kubernetes • Docker • Terraform • AWS • Jenkins • ArgoCD • Grafana • Prometheus 
 </p>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=rajendrakmr&show_icons=true&theme=tokyonight&hide_border=false&count_private=false" alt="Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajendrakmr&layout=compact&theme=tokyonight&hide_border=false" alt="Top-Languages" height="165"> 
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajendrakmr&theme=tokyonight&hide_border=false" alt="Streak" width="600">
+</div>
+
+---
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajendrakmr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajendrakmr&theme=chartreuse-dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajendrakmr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajendrakmr)](https://github.com/ryo-ma/github-profile-trophy)
 
