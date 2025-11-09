@@ -27,7 +27,7 @@
 </div>
 
 ---
- 
+ ![Profile Views](https://komarev.com/ghpvc/?username=rajendrakmr&color=brightgreen&style=flat-square)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajendrakmr)](https://github.com/ryo-ma/github-profile-trophy)
 ![Preview](https://raw.githubusercontent.com/rajendrakmr/repo/main/demo.gif)
