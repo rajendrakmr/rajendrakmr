@@ -32,6 +32,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajendrakmr)](https://github.com/ryo-ma/github-profile-trophy)
 ![Preview](https://raw.githubusercontent.com/rajendrakmr/repo/main/demo.gif)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajendrakmr&label=Profile%20views&color=0e75b6&style=flat" alt="devmadhup" /> </p>
+
+
+ 
 
  
  
