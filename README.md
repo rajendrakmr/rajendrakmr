@@ -1,6 +1,6 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=1000&height=70&duration=6000&lines=Hello+There!+👋;+I'm+Rajendra!;+A+DevOps+Engineer!" 
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=1000&height=70&duration=6000&lines=Hello+There!+👋;+I'm+Rajendra!;+A+Software+Engineer!" 
     style="max-width: 100%; height: auto;" 
   />
 </h1>
